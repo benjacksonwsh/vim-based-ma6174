@@ -1,0 +1,1 @@
+/home/ben/.vim/vim-stonewashed/colors/stonewashed-gui.vim
